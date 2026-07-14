@@ -1,0 +1,5 @@
+"Earthquake Phase","Event",00:00:00.000,0.0,00:00:16.098,16.098,00:00:16.098,16.098,"During"
+"Environmental Cue_1","Environment",00:00:00.000,0.0,00:00:16.098,16.098,00:00:16.098,16.098,"Shaking"
+"Environment Cue_2","Environment",00:00:00.000,0.0,00:00:16.098,16.098,00:00:16.098,16.098,"Moving Objects"
+"Person_1","Girl under the table",00:00:00.000,0.0,00:00:01.627,1.627,00:00:01.627,1.627,"Move under furniture"
+"Person_1","Girl under the table",00:00:02.216,2.216,00:00:07.216,7.216,00:00:05.000,5.0,"Move under furniture"

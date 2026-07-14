@@ -1,0 +1,4 @@
+"Earthquake Phase","Event",00:00:00.020,0.02,00:00:08.320,8.32,00:00:08.300,8.3,"Immediately after"
+"Environmental Cue","Environment",00:00:00.020,0.02,00:00:08.320,8.32,00:00:08.300,8.3,"Moving Objects"
+"P_1","Person came towards camera",00:00:00.010,0.01,00:00:04.280,4.28,00:00:04.270,4.27,"Running (id: 4473)"
+"Group","Group of people far away on the road",00:00:00.010,0.01,00:00:08.300,8.3,00:00:08.290,8.29,"Walking (10 people)"
