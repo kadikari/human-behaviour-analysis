@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-05-05T11:03:30+12:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///E:/CrisisLab/Video Dataset_1/99_1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Video Dataset_1/99_1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:507a0f6e-31f5-4514-8eab-db5a77d28327</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">19</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="14"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="14"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="43"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="43"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="43"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="57"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="4471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="4471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="5086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="6200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="6200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="7929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="7929"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="8157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="8157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="8786"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="9157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="10414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="10414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="10443"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="10443"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="13186"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="13186"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="13357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="13357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="13743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="13743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="14329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="14329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="16666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="16666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="16666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="16666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="16666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="16666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="16666"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="16666"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Phase" PARTICIPANT="Event" TIER_ID="Earthquake phase">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>During</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Cue"
+        PARTICIPANT="Environment" TIER_ID="Environmental Cue">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Shaking</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="yellow tshirt wearing girl" TIER_ID="P_1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>standing (id: 21670)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>Drop, cover and hold (id: 21670), (id: 21711), (id: 21762)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Girl next to P_1" TIER_ID="P_2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>standing (id: 21669)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Drop, cover and hold (id: 21669)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="black suit wearing/ carrying a child one" TIER_ID="P_3">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>standing (id: 21671)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>held each other (id: 21683), (id: 21672), (id: 21704)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>carried a child (id: 21708), (id: 21704)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>held each other (id: 21704)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>Drop - held each other</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Beige color frock wearing girl" TIER_ID="P_4">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>hold onto a structure (id: 21716), (id: 21734), (id: 21747), (id: 21754), </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>falling (id: 21757), (id: 21747), (id: 21768), (id: 21770), (id: 21765), (id: 21771)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Girl with P_4" TIER_ID="P_5">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>hold onto a structure (id: 21717), (id: 21724), (id: 21758)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>falling (id: 21767), (id: 21765), (id: 21768), (id: 21779)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="person who held P_3" TIER_ID="P_6">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>standing (id: 21673), (id: 21684), (id: 21698), (id: 21700)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>walking (id: 21718)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>held each other</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>falling (id: 21776)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Phase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Cue" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Behavior" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

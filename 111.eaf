@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-02-12T11:41:06+12:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/User/Downloads/Videos to practice/111.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2fc1913c-d520-44de-adaa-f0018e28e8b3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">8</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="65"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="171"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="10243"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="10243"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="23400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="23600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="26500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="26500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="51000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="51268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="51268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="64319"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="64667"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="64667"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Phase" PARTICIPANT="Event" TIER_ID="Earthquake Phase">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Before</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>During</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                CVE_REF="cveid_0ae17ad2-a3da-4414-a400-93367a99c8c0"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Immediately after</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Cue"
+        PARTICIPANT="Environmen" TIER_ID="Environmental Cues">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                CVE_REF="cveid_d7b784dc-b729-4259-9abe-d599f6afbfc6"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Shaking</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Cue" PARTICIPANT="Group" TIER_ID="Social Cue"/>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior" PARTICIPANT="P1" TIER_ID="P1_Behavior">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                CVE_REF="cveid_875e8a41-c331-4bc8-8dd0-6259d38eac60"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Sitting</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                CVE_REF="cveid_5a329743-0d73-4334-a4af-6f06c3960b39"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Standing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior" PARTICIPANT="P2" TIER_ID="P2_Behavior">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                CVE_REF="cveid_875e8a41-c331-4bc8-8dd0-6259d38eac60"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Sitting</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                CVE_REF="cveid_5a329743-0d73-4334-a4af-6f06c3960b39"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Standing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Behavior"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Behavior" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Phase"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Phase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Environmental Cues"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Cue" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Behavior">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_f01fccdd-e52b-49bb-9d95-8518806de982">
+            <CVE_VALUE LANG_REF="und">Walking</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b3ff0ea6-b4aa-455f-aa5a-7199d63ac170">
+            <CVE_VALUE LANG_REF="und">Running</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_875e8a41-c331-4bc8-8dd0-6259d38eac60">
+            <CVE_VALUE LANG_REF="und">Sitting</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5a329743-0d73-4334-a4af-6f06c3960b39">
+            <CVE_VALUE LANG_REF="und">Standing</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_72ef5127-10e1-4ec5-ac9c-df76775717c8">
+            <CVE_VALUE LANG_REF="und">Lying down</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f2336552-9739-43dc-a8aa-0466dbf377e9">
+            <CVE_VALUE LANG_REF="und">Evacuating</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e7ffaff2-d37a-41dc-a774-148eb64e97d7">
+            <CVE_VALUE LANG_REF="und">Drop</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6d148b00-a643-4b9a-9a03-cd217d302c43">
+            <CVE_VALUE LANG_REF="und">Drop, Cover, and Hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b724fb8a-41bc-4aa5-b6e6-afde0eb10f6e">
+            <CVE_VALUE LANG_REF="und">Braces forward</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d2031b08-3cdb-4a1d-8bc4-91b8e54c43ff">
+            <CVE_VALUE LANG_REF="und">Hold onto a structure</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_21982a3d-268d-421c-9f97-411bb85c2a77">
+            <CVE_VALUE LANG_REF="und">Drop and hold onto a structure</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c8db04c4-fdf9-495c-b3ea-95331adbd48d">
+            <CVE_VALUE LANG_REF="und">Move under furniture</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bcbdf918-d756-4bbe-aed1-597e06f87c56">
+            <CVE_VALUE LANG_REF="und">Move under the doorframe</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6d12baf4-ffb9-4df2-a433-b1b4f5a32320">
+            <CVE_VALUE LANG_REF="und">Falling</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Environmental Cues">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_d7b784dc-b729-4259-9abe-d599f6afbfc6">
+            <CVE_VALUE LANG_REF="und">Shaking</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_04f73aff-bf3c-41fe-a21f-be8d3c5b32b5">
+            <CVE_VALUE LANG_REF="und">Breaking Objects</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e0eb031f-dd29-42d3-abb9-7246e61f6096">
+            <CVE_VALUE LANG_REF="und">Moving Objects</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_81857f66-b419-4a51-b192-cb9d11f43836">
+            <CVE_VALUE LANG_REF="und">Dust Cloud</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_abb9dd14-0755-4cb0-9f44-e2189a8da296">
+            <CVE_VALUE LANG_REF="und">Sea Movement</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8fcf9d1c-fe6a-469e-8d7c-a31418d55a2b">
+            <CVE_VALUE LANG_REF="und">Sound</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Social Cues">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_65fa76d3-a58d-4f70-98ac-749c4b365dd6">
+            <CVE_VALUE LANG_REF="und">Seeing others taking actions</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c5b8a1de-cfdb-468e-9124-faf2bf1e7eff">
+            <CVE_VALUE LANG_REF="und">Following others’ instructions</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Phase">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_8802c356-80af-4c69-be9e-77b4ca7857e7">
+            <CVE_VALUE LANG_REF="und">Before</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7e6e9eac-7782-4a6b-9773-73b25f55f986">
+            <CVE_VALUE LANG_REF="und">During</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0ae17ad2-a3da-4414-a400-93367a99c8c0">
+            <CVE_VALUE LANG_REF="und">Immediately after</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
