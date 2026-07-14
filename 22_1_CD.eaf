@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2026-03-06T00:06:26+12:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///E:/CrisisLab/Video Dataset_1/22_1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../Video Dataset_1/22_1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:83fb33ef-f5cb-4604-b60d-3b8803023ee9</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="102"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="152"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="5450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="5633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="5967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="5983"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="6467"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="6467"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="6783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="6783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="7295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="7567"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="7700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="8633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="9133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="9733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="10933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="10983"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="11567"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="14150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="14250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="14400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="15733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="15733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="16583"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="17150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="17217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="17500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="17950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="17967"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="18700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="18748"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="18748"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="19267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="19717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="19784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="19850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="19850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="19867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="19883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="19900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="19900"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Phase" PARTICIPANT="Event" TIER_ID="Earthquake Phase">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Before</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>During</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Cues"
+        PARTICIPANT="Environment" TIER_ID="Environmental Cue_1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>Shaking (Initial)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Cues"
+        PARTICIPANT="Environment" TIER_ID="Environment Cue_2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Breaking Objects</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Cues" PARTICIPANT="People" TIER_ID="Social Cue"/>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Person who walk 1st" TIER_ID="P_1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Walking (id: 11940)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Person sit left of the bench" TIER_ID="P_2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>Sitting (id: 11941)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>Standing (id: 11941)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Running (id: 11941)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Person sit on the right of the bench" TIER_ID="P_3">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Sitting (id: 11942), (id: 11944), (id: 11955)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Standing (id: 11955)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>Running (id: 11955)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Run left side to right, wearing white shirt" TIER_ID="P_4">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Running (id: 11962)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Person run after P_4, wearing orange color shirt" TIER_ID="P_5">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Running (id: 11968), (id: 11969), (id: 11971), (id: 11975)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Lady wearing black top" TIER_ID="P_6">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Running (id: 11977), (id: 11981), (id: 11985)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Person holding P_6 woman's hand" TIER_ID="P_7">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>Running (id: 11983)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="white color costume, falling man" TIER_ID="P_8">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>Running (id: 11996)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Falling</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="White shirt wearing 1st one came during dust" TIER_ID="P_9">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>Running (id: 12007), (id: 12023)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Person came with P_9" TIER_ID="P_10">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Running (id: 12008)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="person runaway from camera (left side)" TIER_ID="P_11">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Falling (id: 12011) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Running (id: 12011), (id: 12029), (id: 12034)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="person came with P_11" TIER_ID="P_12">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>Running (id: 12016), (id: 12017) </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="Person came after P_12" TIER_ID="P_13">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Running (id: 12024)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="CD" LINGUISTIC_TYPE_REF="Behavior"
+        PARTICIPANT="People in the video" TIER_ID="People">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Running (20 people)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Phase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Cues" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Behavior" TIME_ALIGNABLE="true"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
