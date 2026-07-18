@@ -1,0 +1,7 @@
+"Earthquake phase","Event",00:00:00.100,0.1,00:00:04.105,4.105,00:00:04.005,4.005,"During"
+"Earthquake phase","Event",00:00:04.105,4.105,00:00:33.333,33.333,00:00:29.228,29.228,"Immediately after"
+"Environmental Cue","Environment",00:00:00.000,0.0,00:00:04.053,4.053,00:00:04.053,4.053,"Shaking"
+"P_1","red jacket wearing man",00:00:00.105,0.105,00:00:16.368,16.368,00:00:16.263,16.263,"move under a furniture (id: 6887)"
+"P_1","red jacket wearing man",00:00:16.368,16.368,00:00:33.333,33.333,00:00:16.965,16.965,"Drop (id: 6887)"
+"P_2","Person under chair",00:00:00.105,0.105,00:00:31.947,31.947,00:00:31.842,31.842,"move under a furniture "
+"15_Participants","Drop and hold onto a structure",00:00:00.105,0.105,00:00:31.947,31.947,00:00:31.842,31.842,"Drop and hold onto a structure (id: 6868, 6860, 6875, 6810, 6817, 6839, 6869, 6877, 6886, 6895, 6909, 6906)"

@@ -1,0 +1,7 @@
+"Earthquake phase","Event",00:00:00.010,0.01,00:00:02.857,2.857,00:00:02.847,2.847," During"
+"Environmental cue","Environment",00:00:00.010,0.01,00:00:02.857,2.857,00:00:02.847,2.847,"Shaking"
+"P_1","pink top wearing girl",00:00:00.030,0.03,00:00:02.857,2.857,00:00:02.827,2.827,"walking (id: 8456)"
+"P_2","black hoodie wearing girl",00:00:00.030,0.03,00:00:02.857,2.857,00:00:02.827,2.827,"walking "
+"2_Participants","people hold onto a structure",00:00:00.030,0.03,00:00:02.857,2.857,00:00:02.827,2.827,"hold onto a structure (id: 8439, 8433)"
+"3_Participants","people drop",00:00:00.060,0.06,00:00:02.110,2.11,00:00:02.050,2.05,"Drop (id: 8469, 8428, 8476)"
+"3_Participants","people drop",00:00:02.110,2.11,00:00:02.857,2.857,00:00:00.747,0.747,"standing (id: 8469, 8428, 8476)"

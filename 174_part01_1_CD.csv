@@ -1,0 +1,8 @@
+"Earthquake phase","Event",00:00:00.075,0.075,00:00:19.285,19.285,00:00:19.210,19.21,"During"
+"Environmental cue","Environment",00:00:00.075,0.075,00:00:19.285,19.285,00:00:19.210,19.21,"shaking"
+"2_Participants","girls walking ",00:00:00.150,0.15,00:00:02.825,2.825,00:00:02.675,2.675,"standing (id: 9100, 9101)"
+"2_Participants","girls walking ",00:00:02.825,2.825,00:00:19.285,19.285,00:00:16.460,16.46,"walking (id: 9100, 9101)"
+"3_Participants","people sit on chair",00:00:00.075,0.075,00:00:02.975,2.975,00:00:02.900,2.9,"standing "
+"3_Participants","people sit on chair",00:00:02.975,2.975,00:00:19.285,19.285,00:00:16.310,16.31,"Covered head while sitting (id: 9105, 9128, 9131)"
+"7_Participants","drop people",00:00:00.075,0.075,00:00:02.775,2.775,00:00:02.700,2.7,"standing (id: 9102, 9072, 9090, 9104, )"
+"7_Participants","drop people",00:00:02.775,2.775,00:00:19.285,19.285,00:00:16.510,16.51,"drop, cover and hold (id: 9103, 9072, 9090, 9121, 9125, 9109, 9130, 9133, 9113)"

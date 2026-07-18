@@ -1,0 +1,5 @@
+"Earthquake phase","Event",00:00:00.060,0.06,00:00:17.241,17.241,00:00:17.181,17.181,"Immediately after"
+"5_Participants","people under desks",00:00:00.060,0.06,00:00:17.241,17.241,00:00:17.181,17.181,"Move under a furniture (id: 7325, 7332, 7341, 7343, 7346, 7345)"
+"P_1","person standing ",00:00:00.080,0.08,00:00:15.380,15.38,00:00:15.300,15.3,"Drop and hold onto structure (id: 7344, 7347)"
+"P_1","person standing ",00:00:15.380,15.38,00:00:16.780,16.78,00:00:01.400,1.4,"standing (id: 7347)"
+"P_1","person standing ",00:00:16.780,16.78,00:00:17.241,17.241,00:00:00.461,0.461,"walking (id: 7347)"
