@@ -1,4 +1,0 @@
-Earthquake phase	Event	00:00:00.000	0.0	00:00:02.280	2.28	00:00:02.280	2.28	During
-Environmental Cue	Environment	00:00:00.000	0.0	00:00:02.280	2.28	00:00:02.280	2.28	Shaking
-Person_1	Person_1	00:00:00.000	0.0	00:00:02.280	2.28	00:00:02.280	2.28	Drop, cover and hold
-Person_3	Person_3	00:00:00.000	0.0	00:00:02.280	2.28	00:00:02.280	2.28	Drop, cover and hold
