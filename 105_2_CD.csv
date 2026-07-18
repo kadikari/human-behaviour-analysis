@@ -1,0 +1,8 @@
+"Earthquake phase","Event",00:00:00.050,0.05,00:00:30.125,30.125,00:00:30.075,30.075,"During"
+"Environmental Cue","Environment",00:00:00.050,0.05,00:00:30.125,30.125,00:00:30.075,30.075,"Shaking"
+"Social Cue","People",00:00:00.050,0.05,00:00:30.125,30.125,00:00:30.075,30.075,"Seeing others taking actions "
+"5_Participants","People drop",00:00:00.075,0.075,00:00:30.125,30.125,00:00:30.050,30.05,"Drop (id: 1216), (id: 1307), (id: 1323), (id: 1330), (id: 1378), (id: 1419), (id: 1439), (id: 1447), (id: 1450)"
+"7_Participants","people standing and walking time to time",00:00:00.050,0.05,00:00:09.675,9.675,00:00:09.625,9.625,"standing (id: 1145), (id: 1171), (id: 1252), (id: 1192), (id: 1238), (id: 1276), (id: 1223), (id: 1282), (id: 1216), (id: 1293), (id: 1298), (id: 1307), (id: 1330), (id: 1332), (id: 1323), (id:1327)"
+"7_Participants","people standing and walking time to time",00:00:09.675,9.675,00:00:11.900,11.9,00:00:02.225,2.225,"running (id: 1145), (id: 1327), (id: 1348), (id: 1197), (id: 1348), (id: 1337)"
+"7_Participants","people standing and walking time to time",00:00:11.900,11.9,00:00:30.125,30.125,00:00:18.225,18.225,"standing  (id:1382), (id: 1382), (id: 1397), (id: 1409), (id: 1415), (id: 1430), (id: 1435), (id: 1415)"
+"2_Participants","standing boys",00:00:00.050,0.05,00:00:30.125,30.125,00:00:30.075,30.075,"standing (id: 1078), (id: 1197), (id: 1337), (id: 1402), (id: 1395), (id: 1444)"

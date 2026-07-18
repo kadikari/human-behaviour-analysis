@@ -1,0 +1,5 @@
+"Earthquake phase","Event",00:00:00.020,0.02,00:00:20.000,20.0,00:00:19.980,19.98,"During"
+"Environmental Cue","Environment",00:00:00.020,0.02,00:00:20.000,20.0,00:00:19.980,19.98,"Shaking"
+"P_1","who run first",00:00:06.540,6.54,00:00:10.620,10.62,00:00:04.080,4.08,"evacuate"
+"P_2","person who carrying children",00:00:10.840,10.84,00:00:15.660,15.66,00:00:04.820,4.82,"carrying children outside"
+"P_2","person who carrying children",00:00:17.740,17.74,00:00:20.000,20.0,00:00:02.260,2.26,"running"
