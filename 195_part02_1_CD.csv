@@ -1,0 +1,7 @@
+"Earthquake phase","Event",00:00:00.033,0.033,00:00:33.967,33.967,00:00:33.934,33.934,"During"
+"Environmental cue","Environment",00:00:00.033,0.033,00:00:33.967,33.967,00:00:33.934,33.934,"Shaking"
+"4_Participants","people move under desk",00:00:00.033,0.033,00:00:34.567,34.567,00:00:34.534,34.534,"Move under a furniture (id: 11262, 11340, 11365, 11378)"
+"3_Participants","people drop",00:00:00.100,0.1,00:00:34.800,34.8,00:00:34.700,34.7,"Drop (id: 11350, 11334, 113555, 11375)"
+"2_Participants","people hold onto desk",00:00:00.100,0.1,00:00:34.233,34.233,00:00:34.133,34.133,"Hold onto a structure (id: 11347, 11288, , 11376, )"
+"2_Participants","people hold onto desk",00:00:34.233,34.233,00:00:35.714,35.714,00:00:01.481,1.481,"standing (id: 11288, 11376)"
+"P_1","red top wearing girl",00:00:00.100,0.1,00:00:35.714,35.714,00:00:35.614,35.614,"walking (d: 11351)"

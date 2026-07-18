@@ -1,0 +1,5 @@
+"Earthquake phase","Event",00:00:00.000,0.0,00:00:03.928,3.928,00:00:03.928,3.928,"Immediately after"
+"4_Participants","standing people",00:00:00.030,0.03,00:00:03.928,3.928,00:00:03.898,3.898,"standing (id: 10313, 10355, 10357, 10362)"
+"2_Participants","sitting men",00:00:00.030,0.03,00:00:03.928,3.928,00:00:03.898,3.898,"sitting (id: 10297, 10301)"
+"P_1","person standing middle of sitting men",00:00:00.030,0.03,00:00:03.928,3.928,00:00:03.898,3.898,"walking (id: 10339)"
+"3_Participants","drop people",00:00:00.070,0.07,00:00:03.928,3.928,00:00:03.858,3.858,"Drop and hold onto a structure (id: 10366, 10369)"
