@@ -1,0 +1,8 @@
+"Earthquake Phase","Event",00:00:00.000,0.0,00:00:20.000,20.0,00:00:20.000,20.0,"During"
+"Environmental Cue","Environment",00:00:00.000,0.0,00:00:20.000,20.0,00:00:20.000,20.0,"Shaking"
+"P_1","Person wearing black bottom and grey tshirt, right side",00:00:00.025,0.025,00:00:04.100,4.1,00:00:04.075,4.075,"walking"
+"P_1","Person wearing black bottom and grey tshirt, right side",00:00:04.100,4.1,00:00:11.450,11.45,00:00:07.350,7.35,"standing (id: 15929)"
+"P_1","Person wearing black bottom and grey tshirt, right side",00:00:11.450,11.45,00:00:20.000,20.0,00:00:08.550,8.55,"walking (id: 15938)"
+"30_Participants","standing ",00:00:00.000,0.0,00:00:20.000,20.0,00:00:20.000,20.0,"standing"
+"15_Participants","Drop",00:00:00.000,0.0,00:00:20.000,20.0,00:00:20.000,20.0,"Drop"
+"40_Participants","walking people",00:00:00.000,0.0,00:00:20.000,20.0,00:00:20.000,20.0,"Walking"

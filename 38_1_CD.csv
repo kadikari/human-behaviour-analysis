@@ -1,0 +1,7 @@
+"Earthquake Phase","Event",00:00:00.010,0.01,00:00:08.333,8.333,00:00:08.323,8.323,"During"
+"Environmental Cue","Environment",00:00:00.010,0.01,00:00:08.333,8.333,00:00:08.323,8.323,"Shaking"
+"P_1","White color wearing one",00:00:00.000,0.0,00:00:01.860,1.86,00:00:01.860,1.86,"Sitting"
+"P_1","White color wearing one",00:00:01.860,1.86,00:00:02.420,2.42,00:00:00.560,0.56,"Standing"
+"P_1","White color wearing one",00:00:02.420,2.42,00:00:05.350,5.35,00:00:02.930,2.93,"Running (id: 13924)"
+"P_2","Black color wearing person",00:00:00.000,0.0,00:00:04.150,4.15,00:00:04.150,4.15,"Standing"
+"P_2","Black color wearing person",00:00:04.150,4.15,00:00:06.370,6.37,00:00:02.220,2.22,"Running (id: 13925)"

@@ -1,0 +1,4 @@
+"Earthquake phase","Event",00:00:00.000,0.0,00:00:03.750,3.75,00:00:03.750,3.75,"Before"
+"Earthquake phase","Event",00:00:03.750,3.75,00:00:16.666,16.666,00:00:12.916,12.916,"During"
+"Environmental Cue","Environment",00:00:03.750,3.75,00:00:16.666,16.666,00:00:12.916,12.916,"Shaking"
+"B_1","Female ride the bike",00:00:04.900,4.9,00:00:16.648,16.648,00:00:11.748,11.748,"Moving forward vehicle (id: 16604), (id: 16607)"

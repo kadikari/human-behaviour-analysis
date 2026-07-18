@@ -1,0 +1,6 @@
+"Earthquake phase","Event",00:00:00.000,0.0,00:00:08.333,8.333,00:00:08.333,8.333,"During"
+"Environmental cue","Environment",00:00:00.000,0.0,00:00:08.333,8.333,00:00:08.333,8.333,"shaking"
+"P_1","person wearing black top and pink pant",00:00:00.010,0.01,00:00:08.333,8.333,00:00:08.323,8.323,"standing (id: 16675)"
+"P_2","person next to P_1",00:00:00.010,0.01,00:00:08.333,8.333,00:00:08.323,8.323,"standing (id: "
+"P_3","person next to P_2, near bike",00:00:00.010,0.01,00:00:08.333,8.333,00:00:08.323,8.323,"hold onto a structure (id: 16694)"
+"8_Participants","people outside the building",00:00:00.010,0.01,00:00:08.333,8.333,00:00:08.323,8.323,"standing"

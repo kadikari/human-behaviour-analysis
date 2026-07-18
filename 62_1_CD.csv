@@ -1,0 +1,7 @@
+"Earthquake phase","Event",00:00:00.000,0.0,00:00:05.200,5.2,00:00:05.200,5.2,"Before"
+"Earthquake phase","Event",00:00:05.200,5.2,00:00:17.241,17.241,00:00:12.041,12.041,"During"
+"Environmental Cue","Environment",00:00:05.200,5.2,00:00:17.241,17.241,00:00:12.041,12.041,"Shaking"
+"P_1","person who visible at the beginning",00:00:00.000,0.0,00:00:05.700,5.7,00:00:05.700,5.7,"standing (id: 18102), (id: 18105)"
+"P_1","person who visible at the beginning",00:00:05.700,5.7,00:00:13.675,13.675,00:00:07.975,7.975,"running (id: 18105), (id: 18111), (id: 18113), (id: 18119), (id: 18135), (18138)"
+"P_1","person who visible at the beginning",00:00:13.675,13.675,00:00:17.241,17.241,00:00:03.566,3.566,"held each other - running (id: 18138), (id: 18152), (id: 18155), (id: 18164)"
+"P_2","Person visible at the end",00:00:13.675,13.675,00:00:17.241,17.241,00:00:03.566,3.566,"held each other - running (id: 18152), (id: 18159), (id: 18155), (id: 18168)"

@@ -1,0 +1,6 @@
+"Earthquake phase","Event",00:00:00.000,0.0,00:00:17.241,17.241,00:00:17.241,17.241,"During"
+"Environmental cue","Environment",00:00:00.000,0.0,00:00:17.241,17.241,00:00:17.241,17.241,"Shaking"
+"4_Participant","Sitting at the beginning",00:00:00.000,0.0,00:00:09.425,9.425,00:00:09.425,9.425,"sitting (id: 17293), (id: 17299), (id: 17301), (id: 17293), (id: 17307)"
+"4_Participant","Sitting at the beginning",00:00:09.425,9.425,00:00:17.241,17.241,00:00:07.816,7.816,"evacuate (id: 17312), (id: 17322), (id: 17327)"
+"200_Participants","standing at the beginning people",00:00:00.000,0.0,00:00:08.875,8.875,00:00:08.875,8.875,"standing"
+"200_Participants","standing at the beginning people",00:00:08.875,8.875,00:00:17.241,17.241,00:00:08.366,8.366,"running (id: 17314), (id: 17326), (id: 17332), (id: 17337), (id: 17342), (id: 17346), (id: 17359), (id: 17379), (id: 17392), (id: 17398), (id: 17395), (id: 17420), (id: 17453), (id: 17438)"
