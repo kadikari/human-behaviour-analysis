@@ -1,0 +1,8 @@
+"Earthquake phase","Event",00:00:00.000,0.0,00:00:16.666,16.666,00:00:16.666,16.666,"During"
+"Environmental cue","Environment",00:00:00.000,0.0,00:00:16.666,16.666,00:00:16.666,16.666,"Shaking"
+"P_1","1st person appear in the video",00:00:00.040,0.04,00:00:02.220,2.22,00:00:02.180,2.18,"walking (id: 5144), (id: 5147)"
+"P_2","blue tshirt wearing child",00:00:00.180,0.18,00:00:06.020,6.02,00:00:05.840,5.84,"walking (id: 5142), (id: 5155)"
+"P_2","blue tshirt wearing child",00:00:12.880,12.88,00:00:16.666,16.666,00:00:03.786,3.786,"held each other running (id: 5190)"
+"P_3","person hold child man",00:00:12.520,12.52,00:00:15.500,15.5,00:00:02.980,2.98,"held each other - running (id: 5181), (id: 5189)"
+"P_3","person hold child man",00:00:15.500,15.5,00:00:16.666,16.666,00:00:01.166,1.166,"runninf (id: 5189)"
+"P_4","person hold child woman",00:00:12.380,12.38,00:00:16.666,16.666,00:00:04.286,4.286,"running - held each other "
